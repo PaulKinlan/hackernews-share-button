@@ -1,0 +1,19 @@
+{
+  "name": "hackernews-share-button",
+  "main": "hackernews-share-button.js",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulkinlan/hackernews-share-button.git"
+  },
+  "author": "Paul Kinlan <paul.kinlan@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/paulkinlan/hackernews-share-button/issues"
+  },
+  "homepage": "https://github.com/paulkinlan/hackernews-share-button#readme",
+  "files": [
+    "hackernews-share-button.js",
+    "hackernews-share-button.html"
+  ]
+}
